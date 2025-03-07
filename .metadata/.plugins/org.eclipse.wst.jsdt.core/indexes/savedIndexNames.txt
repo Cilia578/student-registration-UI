@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\Capaciti\Documents\studentRegistration\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+538027928.index
